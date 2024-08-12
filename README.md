@@ -4,27 +4,27 @@ This project involves a detailed analysis of the Sample Superstore dataset to un
 
 ## Project Objectives
 1. DataPreparation
-     LoadthedatasetintoaPandasDataFrame.
-     DisplaythefirstfewrowsoftheDataFrametounderstanditsstructure.
-     Checkformissingvaluesandhandlethemappropriately.
-     Removeanyduplicaterowsifpresent.
+     1. LoadthedatasetintoaPandasDataFrame.
+     2. DisplaythefirstfewrowsoftheDataFrametounderstanditsstructure.
+     3. Checkformissingvaluesandhandlethemappropriately.
+     4. Removeanyduplicaterowsifpresent.
 2. Data cleaning
-     converst the postal code into string data type
-     extact the city state into new column called location by concatinating bothe the colum    
+     1. converst the postal code into string data type
+     2. extact the city state into new column called location by concatinating bothe the colum   
 3. Data Analysis
-     Calculate the total sales, total profit ,and average discount for each year.
-     Identify the top 10 products by sales.
-     Determine the region with the highest profit.
-     Analyze the sales and profit by product category and sub-category.  
+     1. Calculate the total sales, total profit ,and average discount for each year.
+     2. Identify the top 10 products by sales.
+     3. Determine the region with the highest profit.
+     4. Analyze the sales and profit by product category and sub-category.  
 4. Data visualization
-     Perform a correlation analysis between numerical columns.
-     Use a pivot table to summarize sales and profit by region and customer segment.
-     Identify any outliers in the sales data using box plots.
+     1. Perform a correlation analysis between numerical columns.
+     2. Use a pivot table to summarize sales and profit by region and customer segment.
+     3. Identify any outliers in the sales data using box plots.
 5. Advanced Analysis
-     Create a bar chart to show the total sales by year.
-     Plot a line graph showing the monthly sales trend.
-     Generate a pie chart to visualize the proportion of sales by region.
-     Create a scatter plot to analyze the relationship between sales and profit.
+     1. Create a bar chart to show the total sales by year.
+     2. Plot a line graph showing the monthly sales trend.
+     3. Generate a pie chart to visualize the proportion of sales by region.
+     4. Create a scatter plot to analyze the relationship between sales and profit.
 
 ## Tools & Libraries Used
 
